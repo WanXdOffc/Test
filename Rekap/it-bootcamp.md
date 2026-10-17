@@ -5,8 +5,7 @@
 ## Day 1
 **Git & Github**
 
-```Sebelumnya saya sudah berpengalaman dalam git, namun belum pernah bekerja dalam kelompok. Di kegiatan hari pertama ini saya mendapatkan pemahaman yang cukup untuk bekerja secara kelompok, mulai apa itu merge, pull request, dan conflict.
-```
+```Sebelumnya saya sudah berpengalaman dalam git, namun belum pernah bekerja dalam kelompok. Di kegiatan hari pertama ini saya mendapatkan pemahaman yang cukup untuk bekerja secara kelompok, mulai apa itu merge, pull request, dan conflict.```
 
 ---
 ## Day 2
